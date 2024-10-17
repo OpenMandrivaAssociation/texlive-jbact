@@ -3,7 +3,7 @@ Version:	52717
 Release:	2
 Summary:	BibTeX style for biology journals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jbact
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jbact
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jbact.r%{version}.tar.xz
 BuildArch:	noarch
